@@ -5,6 +5,9 @@ This is the source code for Perths Obfuscator (https://psu.dev/)
 
 I do not know why there is so little on this, I think they may have only recorded the stats for a little amount of time. But I shall not leak any more if I get any more, that is now up to the users behind it (BMCQ, Melanchony and so on.) The scripts there are not complete and there are only >800 of them, the dashboard should be complete and same with the Rebirth. Thanks for viewing my Repository!
 
+# Credit
+https://v3rmillion.net/member.php?action=profile&uid=2386065 / blind#6567 uid 921098186444124211
+
 # Common sense and other things
 
 Please do not claim this as yours, it is not mine either but please do not re-use this and say that it is yours without any credit. 
